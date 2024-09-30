@@ -1,0 +1,27 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+table{
+  background-color: antiquewhite;
+  border-width: 10px;
+  border-style: groove;
+  width: 100%;
+  
+}
+#heading{
+  text-align: center;
+  font-size: 60px;
+  background-color: aqua;
+  color: red;
+}
+#row1{
+  background-color: azure;
+  text-align: center;
+
+}
+#row2{
+  background-color: azure;
+  text-align: center;
+
+}
