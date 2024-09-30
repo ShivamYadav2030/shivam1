@@ -1,0 +1,13 @@
+div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.item{
+  height: 200px;
+  width: 200px;
+  background-color: red;
+  margin: 10px;
+  padding: 5px;
+  border: 2px solid black;
+}
