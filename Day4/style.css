@@ -1,0 +1,89 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  /* background-color: black; */
+}
+.logo{
+  display: flex;
+  align-items: center;
+  margin: 5px;
+}
+.navbar{
+  display: flex;
+  background-color: grey;
+  font-size: 20px;
+  justify-content: space-between;
+  /* margin: 10px; */
+}
+.menubar{
+  display: flex;
+  align-items: center;
+}
+.menu-item,.lgn,.sgn{
+  border: 3px solid green;
+  background-color: rgb(66, 198, 232);
+  font-size: 30px;
+  color: beige;
+  border-radius: 12px;
+  margin: 20px;
+
+}
+a{
+  text-decoration: none;
+}
+a:hover{
+  background-color: antiquewhite;
+  color: black;
+}
+.login{
+  display: flex;
+  align-items: center;
+}
+button:hover{
+  background-color: antiquewhite;
+  color: black;
+}
+.main-content{
+  display: flex;
+  justify-content: space-between;
+  /* height: 200px; */
+  background-color: rgb(240, 97, 97);
+  margin: 20px;
+  border: 5px solid greenyellow;
+}
+.about-website{
+  width:40%;
+}
+.news{
+  width: 30%;
+}
+.login-panel{
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+table{
+  font-size: 30px;
+  border: 10px solid yellow;
+  border-radius: 10px;
+}
+.footer{
+  /* width: 100%; */
+  margin: 20px;
+  background-color: black;
+  color: white;
+  font-size: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.copy{
+  display: flex;
+  justify-content: center;
+  /* color: white; */
+}
+
+
