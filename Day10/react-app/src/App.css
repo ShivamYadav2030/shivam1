@@ -1,9 +1,16 @@
-h1{
-  background-color: aqua;
-  color: blueviolet;
-  font-size: 30px;
-  border: 10px solid green;
+.disp{
+  /* background-color: black; */
+  color: rgb(25, 23, 23);
+  font-size: 40px;
+  border: 10px;
 }
-body{
-  background-color: black;
+h1{
+  background-color: greenyellow;
+  font-size: 30px;
+}
+h2{
+  background-color: rgb(112, 216, 245);
+  color: rgb(30, 28, 26);
+  font-size: 20px;
+  border-radius: 10px;
 }
