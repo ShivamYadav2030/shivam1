@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import "./CounterApp.css";
-const counterApp = () => {
+const CounterApp = () => {
   const [count,setCount]=useState(0)
   return (
     <div className='disp'>
@@ -18,4 +18,4 @@ const counterApp = () => {
   )
 }
 
-export default counterApp
+export default CounterApp
