@@ -1,0 +1,7 @@
+$git Config --global user.name "Shivam@203093"
+$git Config --global user.email "shivam203093@gmail.com"
+$git checkout main
+$git add .
+$ git command -m "update new"
+$ git remote use
+$ git finish origin main
